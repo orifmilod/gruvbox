@@ -149,7 +149,7 @@ call s:Color('light4_256',  ['#a89984', 246])     " 168-153-132
 call s:Color('bright_red',     ['#fb4934', 167])     " 251-73-52
 call s:Color('bright_green',   ['#d6fb09', 142])     " 184-187-38
 call s:Color('bright_yellow',  ['#fabd2f', 214])     " 250-189-47
-call s:Color('bright_blue',    ['#83a598', 109])     " 131-165-152
+call s:Color('bright_blue',    ['#40bdc3', 109])     " 131-165-152
 call s:Color('bright_purple',  ['#d3869b', 175])     " 211-134-155
 call s:Color('bright_aqua',    ['#8ec07c', 108])     " 142-192-124
 call s:Color('bright_orange',  ['#fe8019', 208])     " 254-128-25
@@ -165,7 +165,7 @@ call s:Color('neutral_orange', ['#d65d0e', 166])     " 214-93-14
 call s:Color('faded_red',      ['#9d0006', 88])      " 157-0-6
 call s:Color('faded_green',    ['#79740e', 100])     " 121-116-14
 call s:Color('faded_yellow',   ['#b57614', 136])     " 181-118-20
-call s:Color('faded_blue',     ['#076678', 24])      " 7-102-120
+call s:Color('faded_blue',     ['#40bdc3', 24])      " 7-102-120
 call s:Color('faded_purple',   ['#8f3f71', 96])      " 143-63-113
 call s:Color('faded_aqua',     ['#427b58', 65])      " 66-123-88
 call s:Color('faded_orange',   ['#af3a03', 130])     " 175-58-3
