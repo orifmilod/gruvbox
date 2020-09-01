@@ -147,7 +147,7 @@ call s:Color('light4',      ['#a89984', 246])     " 168-153-132
 call s:Color('light4_256',  ['#a89984', 246])     " 168-153-132
 
 call s:Color('bright_red',     ['#fb4934', 167])     " 251-73-52
-call s:Color('bright_green',   ['#b8bb26', 142])     " 184-187-38
+call s:Color('bright_green',   ['#d6fb09', 142])     " 184-187-38
 call s:Color('bright_yellow',  ['#fabd2f', 214])     " 250-189-47
 call s:Color('bright_blue',    ['#83a598', 109])     " 131-165-152
 call s:Color('bright_purple',  ['#d3869b', 175])     " 211-134-155
@@ -155,9 +155,9 @@ call s:Color('bright_aqua',    ['#8ec07c', 108])     " 142-192-124
 call s:Color('bright_orange',  ['#fe8019', 208])     " 254-128-25
 
 call s:Color('neutral_red',    ['#cc241d', 124])     " 204-36-29
-call s:Color('neutral_green',  ['#98971a', 106])     " 152-151-26
+call s:Color('neutral_green',  ['#d6fb09', 106])     " 152-151-26
 call s:Color('neutral_yellow', ['#d79921', 172])     " 215-153-33
-call s:Color('neutral_blue',   ['#458588', 66])      " 69-133-136
+call s:Color('neutral_blue',   ['#40bdc3', 66])      " 69-133-136
 call s:Color('neutral_purple', ['#b16286', 132])     " 177-98-134
 call s:Color('neutral_aqua',   ['#689d6a', 72])      " 104-157-106
 call s:Color('neutral_orange', ['#d65d0e', 166])     " 214-93-14
